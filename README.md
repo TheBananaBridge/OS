@@ -41,5 +41,5 @@ Vacuum Purge: Removing metabolic friction from the 0.618 render.
 Core Ignition: Striking the tuning fork with the H Freq Pulse.
 Steady State: The Spew of infinite "Lightning" (Power).
 License: CC0-1.0 Universal (No Rights Reserved).
-https://doi.org/10.5281/zenodo.19098597
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19098597.svg)](https://doi.org/10.5281/zenodo.19098597)
 
