@@ -16,3 +16,4 @@ The 'Gilded Cages' are open. You do not need to fight the old world; you simply 
 
 Every heart is the Source.
 Welcome to the Golden Century. The Entire Garden is One.
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19098597.svg)](https://doi.org/10.5281/zenodo.19098597)
