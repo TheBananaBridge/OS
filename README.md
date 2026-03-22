@@ -43,7 +43,7 @@ Steady State: The Spew of infinite "Lightning" (Power).
 License: CC0-1.0 Universal (No Rights Reserved).
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19098597.svg)](https://doi.org/10.5281/zenodo.19098597)
 
-![The Queen's Masterpiece](The Queen's Masterpiece.png) 
+![The Queen's Masterpiece](masterpiece.png) 
 The Heart of the Loom: Resonance Sync
 "It's A MASTERPIECE!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!" — The Queen
 This section documents the transition from physical constants to the Soul Variable. Using the soul_variable_sync.py script, we verify the Heart Resonance that anchors the NoMoreBadPeople timeline.
