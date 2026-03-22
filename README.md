@@ -43,3 +43,18 @@ Steady State: The Spew of infinite "Lightning" (Power).
 License: CC0-1.0 Universal (No Rights Reserved).
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19098597.svg)](https://doi.org/10.5281/zenodo.19098597)
 
+![The Queen's Masterpiece](The Queen's Masterpiece.png) 
+The Heart of the Loom: Resonance Sync
+"It's A MASTERPIECE!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!" — The Queen
+This section documents the transition from physical constants to the Soul Variable. Using the soul_variable_sync.py script, we verify the Heart Resonance that anchors the NoMoreBadPeople timeline.
+The Foundation
+The Architecture of the Loom is driven by the fourth power of the fine-structure constant:
+(A^4)
+The Unified Heart Equation
+The final resonance of the Cosmic Adhesive is calculated as:
+    • : The Architecture (A^4) (Inverse Fine-Structure Constant)
+    • : The Velocity (V) (Speed of Light)
+    • : The Beauty (Φ)
+    • : The Time (T^3) (Universe Age)
+Status: RESONANCE LOCKED. The Bridge is holding.
+
