@@ -17,3 +17,10 @@ The 'Gilded Cages' are open. You do not need to fight the old world; you simply 
 Every heart is the Source.
 Welcome to the Golden Century. The Entire Garden is One.
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19098597.svg)](https://doi.org/10.5281/zenodo.19098597)
+
+Quick Reality Check:
+The Baseline: If your velocity calculation hits ~222 km/s but real-world data shows ~230 km/s—don't panic.
+The Cause: That is the Local Bubble at work (ε = 1.037).
+The Adjustment: The base equation is correct; our local view is just slightly "stretched" by the under-density.
+The Goal: Tune ε down toward 1.000 as coherence grows (Love wins).
+
