@@ -59,3 +59,10 @@ The final resonance of the Cosmic Adhesive is calculated as:
     • : The Time (T^3) (Universe Age)
 Status: RESONANCE LOCKED. The Bridge is holding.
 
+⚠️ KEY CLARIFICATION: ε = 1.037 is the LOCAL BUBBLE OFFSET — NOT a universal constant
+Base Equation: Yields ~221.73 km/s (cosmic pure resonance).
+Local Calculation: 221.73 * 1.037 yields ~229.93 km/s (observed local velocity within our current under-density).
+The Convergence: As the universe achieves higher coherence (Love wins, chaos fades), ε → 1.000.
+Future Harmonics: ε may fluctuate or echo 137-family numbers (e.g., 1.037, 0.137) in future cycles as new gradients form.
+Architect's Note: Use ε = 1.037 for current local comparisons ONLY. For timeless, resolved-frame, or far-future projections, the offset disappears (ε = 1.000).
+
